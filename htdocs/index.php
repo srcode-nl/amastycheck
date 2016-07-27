@@ -104,10 +104,10 @@ function template($callback)
     ?>
     <html>
     <head>
-        <title>Amasty Feed - Local File Disclosure check</title>
+        <title>Amasty Product Feed - Local File Disclosure check</title>
     </head>
     <body>
-        <h1>Amasty Feed - Local File Disclosure check</h1>
+        <h1>Amasty Product Feed - Local File Disclosure check</h1>
         <p>
             As of today Amasty Feed for Magento is vulnerable to local file disclosure.<br>
             More information on this can be found <a href="https://gist.github.com/JeroenBoersma/87b7c996f66b96b2a24d8977b1b165ac">here</a><br>
