@@ -109,8 +109,8 @@ function template($callback)
     <body>
         <h1>Amasty Product Feed - Local File Disclosure check</h1>
         <p>
-            As of today Amasty Feed for Magento is vulnerable to local file disclosure.<br>
-            More information on this can be found <a href="https://gist.github.com/JeroenBoersma/87b7c996f66b96b2a24d8977b1b165ac">here</a><br>
+            As of today(it was probably most of the time, but the word is out) Amasty Product Feed for Magento is vulnerable to local file disclosure.<br>
+            More information on this can be found on <a href="https://gist.github.com/JeroenBoersma/87b7c996f66b96b2a24d8977b1b165ac">https://gist.github.com/JeroenBoersma/87b7c996f66b96b2a24d8977b1b165ac</a><br>
             Amasty already supplied a valid patch on this matter, <a href="https://amasty.com/contacts/">contact them</a> if you need the latest version of the module.
         </p>
         <?php echo call_user_func($callback); ?>
