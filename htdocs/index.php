@@ -113,6 +113,12 @@ function template($callback)
             More information on this can be found on <a href="https://gist.github.com/JeroenBoersma/87b7c996f66b96b2a24d8977b1b165ac">https://gist.github.com/JeroenBoersma/87b7c996f66b96b2a24d8977b1b165ac</a><br>
             Amasty already supplied a valid patch on this matter, <a href="https://amasty.com/contacts/">contact them</a> if you need the latest version of the module.
         </p>
+
+        <p>
+            You can also check your sites on <a href="https://magereport.com/">Magereport.com</a>. This is the preferred way.<br>
+            But still feel free to use this check on your site!
+        </p>
+
         <?php echo call_user_func($callback); ?>
 
     </body>
